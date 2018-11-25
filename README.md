@@ -1,6 +1,6 @@
 # TimeTest
 Checking execution time of python functions.
-
+* `pip install timetest`
 
 Now you can check execution time of your functions using:
 * `averagetime_test(function_name, count_of_calls, *args, **kwagrs)` to see average time of execution
